@@ -1,16 +1,16 @@
 
 
 
-    🥯 Pain haut : Pain brioché avec des graines de sésame sur le dessus.
+    1-🥯 Pain haut : Pain brioché avec des graines de sésame sur le dessus.
 
-    🥬 Salade : Salade croquante et fraîche.
+    2-🥬 Salade : Salade croquante et fraîche.
 
-    🍅 Tomate : Tranches de tomate bien mûre.
+    3-🍅 Tomate : Tranches de tomate bien mûre.
 
-    🥩 Steak : Steak de bœuf grillé à la perfection.
+    4-🥩 Steak : Steak de bœuf grillé à la perfection.
 
-    🧀 Fromage : Tranche de cheddar fondant.
+    5-🧀 Fromage : Tranche de cheddar fondant.
 
-    🥓 Bacon : Tranche de bacon croustillante.
+    6-🥓 Bacon : Tranche de bacon croustillante.
 
-    🍞 Pain bas : Pain brioché du dessous.
+    7-🍞 Pain bas : Pain brioché du dessous.
