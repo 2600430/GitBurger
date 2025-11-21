@@ -18,3 +18,9 @@ Ingrédients disponibles
 
     🍞 Pain bas : Pain brioché du dessous.
 
+3. Salade
+2. Bacon
+1. Pain
+4. Tomate
+5. Fromage
+6. Sauce
